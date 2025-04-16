@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "ancient-river-3349",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5d3c23d3-42da-4881-a241-e2310c434413",
+      "database_name": "wild-wood-8510-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
